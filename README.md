@@ -20,5 +20,5 @@ Check out my latest work:
 
 ### 📬 Let's Connect
 I am always open to discussing new projects and collaborations.
-[**Telegram**](https://t.me/developer01234) | [**Email**](mailto:your-email@example.com)
+[**Telegram**](https://t.me/developer01234) | [**Email**](mailto:your-boshqa865@example.com)
 
