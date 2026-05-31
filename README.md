@@ -1,63 +1,24 @@
-# Salom! Men Muhammadsodiq 👋
+# Hello! I'm Muhammadsodiq 👋
 
-🎯 Backend va AI dasturchi
-📍 O'zbekiston | 🐍 Python o'rganmoqdaman
+**Backend & AI Developer | Building intelligent solutions with Python**
 
----
+I specialize in developing scalable backend systems and integrating AI-powered features. My passion lies in natural language processing (NLP) and building automation tools that solve real-world problems. Based in Uzbekistan, I am committed to writing clean, efficient, and maintainable code.
 
-## 🛠 Bilimlarim
+### 🛠 Tech Stack
+*   **Languages:** Python (Primary), JavaScript (Basic)
+*   **Backend & Web:** Flask, API Integration
+*   **AI & NLP:** LLM integration (OpenAI/Groq), Custom NLP corpus development
+*   **Tools:** Git, GitHub, Pydroid 3 (Mobile Development)
 
+### 🚀 Projects
+Check out my latest work:
+*   [**uzbek-ai-bot**](https://github.com/Muhammadsodiq-10/uzbek-ai-bot): An AI-powered bot tailored for Uzbek language interaction.
+*   [**uzbek-words**](https://github.com/Muhammadsodiq-10/uzbek-words): A dictionary and NLP processing library for the Uzbek language.
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+### 📈 GitHub Stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Muhammadsodiq-10&show_icons=true&theme=radical)
 
+### 📬 Let's Connect
+I am always open to discussing new projects and collaborations.
+[**Telegram**](https://t.me/developer01234) | [**Email**](mailto:your-email@example.com)
 
-
-
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-
-
-
-
-![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white)
-
-
-
-
-![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white)
-
-
-
-## 🤖 AI & API
-
-
-![Groq](https://img.shields.io/badge/-Groq_API-FF6B35?style=flat)
-
-
-
-
-![Telegram](https://img.shields.io/badge/-Telegram_Bot-26A5E4?style=flat&logo=telegram&logoColor=white)
-
-
-
-
-
-## 📊 GitHub Statistika
-
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Muhammadsodiq-10&show_icons=true&theme=tokyonight&hide_border=true)
-
-
-
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammadsodiq-10&layout=compact&theme=tokyonight&hide_border=true)
-
-
-
----
-
-## 📫 Bog'lanish
-[
-
-![Telegram](https://img.shields.io/badge/-@developer01234-26A5E4?style=flat&logo=telegram&logoColor=white)
-
-](https://t.me/developer01234)
