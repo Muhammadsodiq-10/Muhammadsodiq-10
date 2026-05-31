@@ -1,6 +1,6 @@
 # Salom! Men Muhammadsodiq 👋
 
-🎯 Backend va AI dasturlashga qiziquvchi yosh dasturchi
+🎯 Backend va AI dasturchi
 📍 O'zbekiston | 🐍 Python o'rganmoqdaman
 
 ---
