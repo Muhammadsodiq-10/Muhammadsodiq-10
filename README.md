@@ -39,15 +39,7 @@
 
 
 
----
 
-## 🚀 Loyihalarim
-
-| Loyiha | Tavsif | Texnologiya |
-|--------|--------|-------------|
-| [🤖 O'zbek AI Bot](https://github.com/Muhammadsodiq-10/uzbek-ai-bot) | Ovozli suhbat qiluvchi Telegram bot | Python, Groq, Whisper |
-
----
 
 ## 📊 GitHub Statistika
 
